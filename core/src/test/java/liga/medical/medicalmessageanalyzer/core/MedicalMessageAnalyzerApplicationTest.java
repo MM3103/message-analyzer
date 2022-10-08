@@ -1,4 +1,4 @@
-package liga.medical.medeicalmessageanalyzer.core;
+package liga.medical.medicalmessageanalyzer.core;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
