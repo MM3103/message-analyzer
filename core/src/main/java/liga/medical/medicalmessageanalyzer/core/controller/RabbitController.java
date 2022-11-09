@@ -1,7 +1,7 @@
 package liga.medical.medicalmessageanalyzer.core.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import liga.medical.medicalmessageanalyzer.core.api.RabbitSenderService;
+import liga.medical.medicalmessageanalyzer.api.RabbitSenderService;
 import liga.medical.medicalmessageanalyzer.core.config.RabbitConfig;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
